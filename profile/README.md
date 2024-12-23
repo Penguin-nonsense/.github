@@ -1,3 +1,5 @@
 # PENGUIN OS
-
-I'm just merging TAGS and a few other changes
+- Personal Fork (based on AOSPA)
+- ROM builds and boots but I force push often 
+- Current security patches are from December
+2024
