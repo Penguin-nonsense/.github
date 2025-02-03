@@ -6,3 +6,5 @@
 - Community? No there's no community
   Aage se right waha se fuck off
 - ROM builds and boots but we force push often 
+
+**EOL Project Moved To [@PA-XE](https://github.com/pa-xe)**  ([mail](mailto:flynryder427@gmail.com) for access)
